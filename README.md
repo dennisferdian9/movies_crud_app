@@ -1,6 +1,6 @@
 # movies_crud_app
 
-This template should help get you started developing with Vue 3 in Vite.
+[click to see the app](https://scintillating-tulumba-d8aee0.netlify.app/)
 
 ## Recommended IDE Setup
 
